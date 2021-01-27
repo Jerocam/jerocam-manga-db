@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jerocam-manga-db/static/css/main.373364a6.chunk.css",
-    "main.js": "/jerocam-manga-db/static/js/main.60aa0628.chunk.js",
-    "main.js.map": "/jerocam-manga-db/static/js/main.60aa0628.chunk.js.map",
+    "main.js": "/jerocam-manga-db/static/js/main.c091c26a.chunk.js",
+    "main.js.map": "/jerocam-manga-db/static/js/main.c091c26a.chunk.js.map",
     "runtime-main.js": "/jerocam-manga-db/static/js/runtime-main.dcbe3100.js",
     "runtime-main.js.map": "/jerocam-manga-db/static/js/runtime-main.dcbe3100.js.map",
     "static/js/2.63aecb70.chunk.js": "/jerocam-manga-db/static/js/2.63aecb70.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dcbe3100.js",
     "static/js/2.63aecb70.chunk.js",
     "static/css/main.373364a6.chunk.css",
-    "static/js/main.60aa0628.chunk.js"
+    "static/js/main.c091c26a.chunk.js"
   ]
 }
